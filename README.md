@@ -1,6 +1,6 @@
 # GDD140 Projects
 
-This website is a portfolio of my GDD140 class projects. It includes links to my p5.js sketches created throughout the semester, including my final project.
+This website is a portfolio of my GDD140 class projects completed in 2025. It includes links to my p5.js sketches created throughout that semester, including my final project.
 
 ## About
 
